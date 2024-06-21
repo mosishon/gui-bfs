@@ -1,0 +1,2 @@
+pygame
+__pycache__/
