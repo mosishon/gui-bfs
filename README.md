@@ -24,7 +24,7 @@ cd grid-pathfinding-visualization
 ```
 - Install the required Python packages:
 ```bash
-pip install pygame
+pip install requirements.txt
 ```
 ### Run the application:
 
