@@ -19,8 +19,8 @@ This project is a GUI implementation of the Breadth-First Search (BFS) algorithm
 - Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/grid-pathfinding-visualization.git
-cd grid-pathfinding-visualization
+git clone https://github.com/mosishon/gui-bfs.git
+cd gui-bfs
 ```
 - Install the required Python packages:
 ```bash
